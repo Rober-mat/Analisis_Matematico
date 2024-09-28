@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: idh5ok.jpg
 ---
 
-### ¡Bienvenides a la página de la materia <strong>Análisis Matemático</strong>!</h4>
+### ¡Bienvenides a la página de la materia <strong>Análisis Matemático</strong>!
 <p style="text-align: center;">Docentes a cargo: </p>
 <h4 style="text-align: center;"><span><strong>Darío Devia</strong> </span>y<span> <strong>Roberto Ben</strong>.</span></h4>
 <p style="text-align: center;"><strong>FECHAS IMPORTANTES</strong>:</p>
@@ -30,15 +30,14 @@ image: idh5ok.jpg
 <li><span class="a-size-extra-large">Montones más...</span></li>
 </ul>
 <h5><strong style="font-size: 1.25rem;">Software a utilizar:</strong></h5>
-<p><span class="a-size-extra-large">Google Colab, basado en Python (se puede usar también Octave, Matlab, R, Python, Mathematica y otros).</span></p>
+<p><span class="a-size-extra-large">Google Colab, basado en Markdown y Python (se puede usar también Octave, Matlab, R, Python, Mathematica y otros).</span></p>
 <h5><strong style="font-size: 1rem;">Redes sociales:</strong></h5>
 <p><span class="a-size-extra-large">Grupo de Telegram<strong> <em>Análisis Matemático 2024 - IDH - UNGS</em>:</strong> </span><span class="a-size-extra-large">destinado a temas relacionados con la materia, recomendamos que quienes están cursando participen de este grupo para una comunicación más fluida.  Es un grupo privado. Enlace para unirse: <a href="https://t.me/+mUPhynDelMRmODI5" target="_blank">https://t.me/+mUPhynDelMRmODI5</a></span></p>
 <p>Canal de Telegram <strong><em>Álgebra y Análisis - IDH - UNGS</em>:</strong> <span class="a-size-extra-large">aquí compartimos y difundimos información que consideramos relevante, relacionada con la matemática en general y, en particular, con temas vinculados a las materias Análisis Matemático, Algebra II y Análisis Numérico, de la UNGS. Es un canal público, cualquier persona que le interese puede suscribirse y está invitada a hacerlo, curse o no estas materias. Link para suscribirse: <a href="https://t.me/Algebra_y_Analisis_UNGS" target="_blank">https://t.me/Algebra_y_Analisis_UNGS</a></span></p>
 <p><strong>Los docentes en Twitter:</strong> <a href="https://twitter.com/dardev17">@dardev17</a> y <a href="https://twitter.com/benroberto">@benroberto</a></p>
 <p id="yui_3_17_2_1_1677763677325_49"><strong>Canal de matemática en YouTube:</strong> <a href="https://www.youtube.com/channel/UCFb0NNzmoP90LNG8_6RI-wg">Matemática Sentimental</a>. Es un canal de Antonio Cafure (@AntonioCafure), no está directamente relacionado con los contenidos de la materia, pero en él encontrarás charlas y entrevistas que pueden resultarte interesantes para tu formación universitaria en el profesorado de matemáticas de la UNGS.</p>
 
-Análisis Matemático
-
+<!--
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
 ## Getting Started
@@ -72,3 +71,4 @@ Everything that you will ever need to know about this Jekyll theme is included i
 The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
 
 Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+-->
