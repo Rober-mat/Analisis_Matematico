@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Sobre los autores"
+author: "Darío Devia y Roberto Ben"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
