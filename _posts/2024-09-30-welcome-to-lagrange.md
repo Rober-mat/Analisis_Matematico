@@ -23,7 +23,7 @@ image: idh5ok.jpg
 <ul>
 <li><span><span>S. Abbott, <em>Understanding Analysis. </em>Second Edition, Springer, 2015.</span></span></li>
 <li><span><span>J. Cooper, <em>Working Analysis</em>. Elsevier Academic Press, 2005.</span></span></li>
-<li><span><span>J. Lebl, <em>Basic Analysis I. Introduction to Real Analysis, Volumen I</em>, </span></span>CreateSpace Independent Publishing Platform, 20<span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">2</span><span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">3</span><span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">.</span></li>
+<li><span><span>J. Lebl, <em>´[Basic Analysis I. Introduction to Real Analysis, Volumen I](https://www.jirka.org/ra/realanal.pdf)</em>, </span></span>CreateSpace Independent Publishing Platform, 20<span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">2</span><span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">3</span><span lang="es-ES-u-co-trad" style="font-family: 'Palatino Linotype', serif; color: #000000; font-size: 1rem;">.</span></li>
 <li><span>E. L. Lima, <em>Análisis Real, </em>Vol. I. IMCA, 1997.</span></li>
 <li><span>G. Matera</span>, <em>Análisis Matemático. Un enfoque constructivo</em>, 1ra. ed., Ediciones UNGS, 2012.</li>
 <li><span>M. Spivak</span><span class="a-size-extra-large">, <em>Cálculo Infinitesimal</em>, 2da edición, Reverté, 1992.</span></li>
