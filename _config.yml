@@ -24,6 +24,9 @@ title:		           'Análisis Matemático'
 description:	       'Página de prueba (en construcción) de la asignatura del Profesorado de Educación Superior en Matemática de la UNGS'
 author:              'Roberto Ben y Darío Devia'
 
+# Localización
+locale:              es
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
