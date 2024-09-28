@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Bienvenidos a Análisis Matemático UNGS!"
+author: "Darío Devia y Roberto Ben"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
