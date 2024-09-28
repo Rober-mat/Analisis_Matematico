@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: idh5ok.jpg
 ---
 
-###¡Bienvenides a la página de la materia <strong>Análisis Matemático</strong>!</h4>
+### ¡Bienvenides a la página de la materia <strong>Análisis Matemático</strong>!</h4>
 <p style="text-align: center;">Docentes a cargo: </p>
 <h4 style="text-align: center;"><span><strong>Darío Devia</strong> </span>y<span> <strong>Roberto Ben</strong>.</span></h4>
 <p style="text-align: center;"><strong>FECHAS IMPORTANTES</strong>:</p>
