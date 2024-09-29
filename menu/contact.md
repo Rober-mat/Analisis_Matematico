@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contacto
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Cualquier consulta, sugerencia o comentario, no dudes en contactarnos por mail: [Darío Devia](https://twitter.com/intent/tweet?text=%40paululele) y [Roberto Ben](https://twitter.com/intent/tweet?text=%40paululele),  [por X](https://twitter.com/intent/tweet?text=%40paululele).
+If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele),
