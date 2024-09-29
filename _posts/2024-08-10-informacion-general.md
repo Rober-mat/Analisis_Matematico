@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bienvenidos a Análisis Matemático UNGS!"
+title: "Información General"
 author: "Darío Devia y Roberto Ben"
 categories: journal
 tags: [documentation,sample]
