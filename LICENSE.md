@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Licencia MIT"
-permalink: /license/
+permalink: license
 ---
 
 # The MIT License (MIT)
