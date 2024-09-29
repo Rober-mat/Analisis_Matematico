@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Teoremas de Punto Fijo"
+author: "Roberto Ben"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmzuIZI3E_Q?si=jyDAw5lovZ0prSOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
 My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
