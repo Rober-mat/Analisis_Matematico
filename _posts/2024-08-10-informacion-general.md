@@ -4,7 +4,7 @@ title: "Información General"
 author: "Darío Devia y Roberto Ben"
 categories: journal
 tags: [documentation,sample]
-image: UNGS_campus.jpeg
+image: IDH_default.jpeg
 ---
 
 ### ¡Bienvenides a la página de la materia <strong>Análisis Matemático</strong>!
