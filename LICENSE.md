@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Licencia MIT"
+permalink: /license/
+---
+
 # The MIT License (MIT)
 
 Copyright (c) 2021 Paul Le
